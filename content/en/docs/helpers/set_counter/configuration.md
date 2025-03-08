@@ -9,7 +9,7 @@ The configuration of a timer does not impact the configuration of other
 timers.
 {{% /alert %}}
 
-Click the **Settings** button of the Set Counter.
+Click the **Settings** tab of the Set Counter.
 
 ### **Increment Set Counter At**
 

@@ -9,4 +9,4 @@ doing of a workout.
 
 It has an optional rest timer to control the rest time between sets.
 
-It can count up and down is steps of one.
+It can count up and down in steps of one.

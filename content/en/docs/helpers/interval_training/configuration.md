@@ -9,7 +9,7 @@ The configuration of a timer does not impact the configuration of other
 timers.
 {{% /alert %}}
 
-Click the **Settings** button of the Interval Training timer.
+Click the **Settings** tab of the Interval Training timer.
 
 ### **Exercise Duration**
 

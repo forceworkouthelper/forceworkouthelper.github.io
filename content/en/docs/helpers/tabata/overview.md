@@ -54,7 +54,7 @@ This would result in a 12-minute workout, with each exercise following the 20-se
 
 **Not for Beginners**: Due to the high intensity, TABATA is often better suited for intermediate to advanced athletes. Beginners may need to scale the intensity or choose less demanding exercises.
 
-**"TABATA This"**
+### **"TABATA This"**
 
 One well-known CrossFit benchmark workout that uses the TABATA structure is called "TABATA This" :
 

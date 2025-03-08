@@ -9,7 +9,7 @@ The configuration of a timer does not impact the configuration of other
 timers.
 {{% /alert %}}
 
-Click the **Settings** button of the Stopwatch timer.
+Click the **Settings** tab of the Stopwatch timer.
 
 ### **Time To Prepare Before Workout**
 

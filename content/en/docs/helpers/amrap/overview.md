@@ -37,7 +37,7 @@ Your score is the total number of rounds completed, plus any additional reps you
 
 **Scalable**: AMRAP workouts can be scaled to suit all fitness levels by adjusting weights, movements, or rep schemes.
 
-### **Tips for Success**:
+### **Tips for Success**
 
 **Pace Yourself**: Start at a sustainable pace to avoid burning out early.
 
