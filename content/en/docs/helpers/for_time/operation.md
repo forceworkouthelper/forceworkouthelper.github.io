@@ -1,5 +1,5 @@
 ---
-title: Timer Operation
+title: Operation
 description: How to operate the For Time timer.
 weight: 3
 ---

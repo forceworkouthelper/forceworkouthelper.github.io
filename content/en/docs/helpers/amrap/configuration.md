@@ -11,6 +11,8 @@ timers.
 
 Click the **Settings** tab of the AMRAP timer.
 
+{{% timer_settings_save_load %}}
+
 ### **AMRAP Duration**
 
 Move the scroll wheels to select the desired duration of one round of AMRAP.

@@ -11,6 +11,8 @@ timers.
 
 Click the **Settings** tab of the TABATA timer.
 
+{{% timer_settings_save_load %}}
+
 ### **Round Duration**
 
 Move the scroll wheels to select the desired duration of one round. The default 

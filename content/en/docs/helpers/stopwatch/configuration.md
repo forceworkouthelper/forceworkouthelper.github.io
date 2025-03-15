@@ -11,6 +11,8 @@ timers.
 
 Click the **Settings** tab of the Stopwatch timer.
 
+{{% timer_settings_save_load %}}
+
 ### **Time To Prepare Before Workout**
 
 If you need a few seconds between pressing the **Start** button and actually

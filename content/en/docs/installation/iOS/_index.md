@@ -4,6 +4,7 @@ description: How do I install the product on iOS?
 categories: [Installation, iOS]
 tags: [install, docs, ios]
 weight: 2
+draft: true
 ---
 
 {{% pageinfo %}}

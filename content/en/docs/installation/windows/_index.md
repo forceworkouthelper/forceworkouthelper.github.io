@@ -4,6 +4,7 @@ description: How do I install the product on Windows?
 categories: [Installation, Windows]
 tags: [install, docs, windows]
 weight: 2
+draft: true
 ---
 
 {{% pageinfo %}}

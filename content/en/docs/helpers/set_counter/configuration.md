@@ -11,6 +11,8 @@ timers.
 
 Click the **Settings** tab of the Set Counter.
 
+{{% timer_settings_save_load %}}
+
 ### **Increment Set Counter At**
 
 Use the radio button to choose whether you want the rest timer to increment the

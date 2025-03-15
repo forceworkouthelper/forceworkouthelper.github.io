@@ -4,6 +4,7 @@ description: How do I install the product on Linux?
 categories: [Installation, Linux]
 tags: [install, docs, linux]
 weight: 2
+draft: true
 ---
 
 {{% pageinfo %}}

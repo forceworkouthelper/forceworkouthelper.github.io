@@ -11,6 +11,8 @@ timers.
 
 Click the **Settings** tab of the EMOM timer.
 
+{{% timer_settings_save_load %}}
+
 ### **EMOM Duration**
 
 Move the scroll wheels to select the desired duration of one set of EMOM.

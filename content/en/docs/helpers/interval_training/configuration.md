@@ -11,6 +11,8 @@ timers.
 
 Click the **Settings** tab of the Interval Training timer.
 
+{{% timer_settings_save_load %}}
+
 ### **Exercise Duration**
 
 Move the scroll wheels to select the desired duration of one exercise.

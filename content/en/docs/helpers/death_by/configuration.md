@@ -1,5 +1,5 @@
 ---
-title: Timer Configuration
+title: Configuration
 description: How to configure the For Time timer.
 weight: 2
 ---
@@ -10,6 +10,8 @@ timers.
 {{% /alert %}}
 
 Click the **Settings** tab of the For Time timer.
+
+{{% timer_settings_save_load %}}
 
 ### **Set Round Duration**
 

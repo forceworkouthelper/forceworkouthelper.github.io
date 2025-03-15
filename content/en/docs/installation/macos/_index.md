@@ -4,6 +4,7 @@ description: How do I install the product on MacOS?
 categories: [Installation, MacOS]
 tags: [install, docs, macos]
 weight: 2
+draft: true
 ---
 
 {{% pageinfo %}}
