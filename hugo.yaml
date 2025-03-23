@@ -49,6 +49,12 @@ languages:
     title: Force Workout Helper
     params:
       description: A modern set of workout timers.
+  # af:
+  #   languageName: Afrikaans
+  #   title: Krag Oefening Helper
+  #   contentDir: content/af
+  #   params:
+  #     description: Jou omvattende reeks oefeningtydhouers.
   # cSpell:disable
   # "no":
   #   languageName: Norsk
