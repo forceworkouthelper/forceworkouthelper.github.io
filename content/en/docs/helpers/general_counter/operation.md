@@ -11,6 +11,6 @@ one from the total.
 
 The counter does not go below zero, i.e., it does not do negative numbers.
 
-### **Rest The Total**
+### **Reset The Total**
 
 Click the **Reset** button to set the total to zero.

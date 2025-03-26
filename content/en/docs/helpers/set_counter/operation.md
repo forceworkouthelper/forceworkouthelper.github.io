@@ -4,7 +4,7 @@ description: How to operate the Set Counter timer.
 weight: 3
 ---
 
-Click the **Timer** tab of the Set Counter.
+{{% timer_intro %}}
 
 ### **Starting, Pausing, Resuming, and Stopping The Rest Timer**
 
