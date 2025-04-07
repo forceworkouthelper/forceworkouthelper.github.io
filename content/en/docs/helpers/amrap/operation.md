@@ -4,7 +4,7 @@ description: How to operate the AMRAP timer.
 weight: 3
 ---
 
-Click the **Timer** tab of the AMRAP timer.
+{{% timer_intro %}}
 
 {{% timer_buttons_start_stop %}}
 

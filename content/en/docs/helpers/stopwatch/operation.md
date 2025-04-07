@@ -4,7 +4,7 @@ description: How to operate the Stopwatch.
 weight: 2
 ---
 
-Click the **Timer** tab of the Stopwatch timer.
+{{% timer_intro %}}
 
 ### **Starting, Pausing, Resuming, and Stopping**
 

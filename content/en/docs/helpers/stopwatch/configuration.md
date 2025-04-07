@@ -5,37 +5,19 @@ weight: 2
 ---
 
 {{% alert  color="info" %}}
-The configuration of a timer does not impact the configuration of other
-timers.
+{{% timer_settings_info %}}
 {{% /alert %}}
 
-Click the **Settings** tab of the Stopwatch timer.
+{{% timer_settings_intro %}}
 
 {{% timer_settings_save_load %}}
 
-### **Time To Prepare Before Workout**
+{{% timer_settings_time_to_prepare %}}
 
-If you need a few seconds between pressing the **Start** button and actually
-beginning the workout, move the scroll wheel to the desired number of seconds.
+{{% timer_settings_sound_cues_heading %}}
 
-### **Sound Cues**
+{{% timer_settings_sound_cues_end_preparation %}}
 
-Here you can configure what type of sound prompts you want, to help you with
-executing your workout without having to look at the screen the whole time.
+{{% timer_settings_voice_cues_heading %}}
 
-All sound prompts are optional.
-
-**Play sound at end of preparation time**
-
-This sound will tell you to move your behind because the workout is starting.
-
-### **Voice Cues**
-
-Here you can configure what type of voice prompts you want, to help you with
-executing your workout without having to look at the screen the whole time.
-
-All voice prompts are optional.
-
-**Play voice at start of workout**
-
-This voice prompt will announce "Go!" at the start of the workout round.
+{{% timer_settings_voice_cues_go %}}

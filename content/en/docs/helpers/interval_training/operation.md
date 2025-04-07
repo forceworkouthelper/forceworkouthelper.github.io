@@ -4,7 +4,7 @@ description: How to operate the Interval Training timer.
 weight: 3
 ---
 
-Click the **Timer** tab of the Interval Training timer.
+{{% timer_intro %}}
 
 {{% timer_buttons_start_stop %}}
 

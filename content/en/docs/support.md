@@ -6,6 +6,6 @@ weight: 100
 
 If you have any questions, feedback, bug reports, or improvement suggestions, please contact us at:
 
-**Email: support@forceworkouthelper.gnitoapp.com**
+**Email: support@forceworkouthelper.com**
 
 We want to hear from you!
