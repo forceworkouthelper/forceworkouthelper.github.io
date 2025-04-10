@@ -31,3 +31,5 @@ If set to zeroes, the work phase duration will be unlimited.
 {{% timer_settings_voice_cues_countdown %}}
 
 {{% timer_settings_voice_cues_go %}}
+
+{{% timer_settings_seed_color %}}

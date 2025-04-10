@@ -1,6 +1,6 @@
 ---
 title: Configuration
-description: How to configure the For Time timer.
+description: How to configure the Countdown timer.
 weight: 2
 ---
 
@@ -14,19 +14,13 @@ weight: 2
 
 {{% timer_settings_work_phase_duration %}}
 
-If set to zeroes, the work phase duration will be unlimited.
-
 {{% timer_settings_time_to_prepare %}}
-
-{{% timer_settings_work_phases_additional %}}
 
 {{% timer_settings_sound_cues_heading %}}
 
 {{% timer_settings_sound_cues_end_preparation %}}
 
 {{% timer_settings_sound_cues_end_work_phase %}}
-
-{{% timer_settings_sound_cues_end_rest %}}
 
 {{% timer_settings_voice_cues_heading %}}
 
@@ -35,8 +29,6 @@ If set to zeroes, the work phase duration will be unlimited.
 {{% timer_settings_voice_cues_countdown %}}
 
 {{% timer_settings_voice_cues_go %}}
-
-{{% timer_settings_voice_cues_rest %}}
 
 {{% timer_settings_voice_cues_well_done %}}
 

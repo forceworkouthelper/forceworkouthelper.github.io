@@ -55,3 +55,5 @@ Move the scroll wheel to select the number of seconds by which each subsequent r
 {{% timer_settings_voice_cues_rest %}}
 
 {{% timer_settings_voice_cues_well_done %}}
+
+{{% timer_settings_seed_color %}}
