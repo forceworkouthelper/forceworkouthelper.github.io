@@ -23,3 +23,5 @@ weight: 2
 {{% timer_settings_voice_cues_ten_seconds %}}
 
 {{% timer_settings_voice_cues_countdown %}}
+
+{{% timer_settings_seed_color %}}

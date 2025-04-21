@@ -39,3 +39,5 @@ weight: 2
 {{% timer_settings_voice_cues_rest %}}
 
 {{% timer_settings_voice_cues_well_done %}}
+
+{{% timer_settings_seed_color %}}
